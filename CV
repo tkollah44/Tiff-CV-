@@ -1,0 +1,110 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+% Reduce spacing in itemize
+\setlist[itemize]{noitemsep, topsep=0pt, leftmargin=*}
+
+\begin{document}
+%==================
+% Header
+%==================
+\begin{center}
+    {\LARGE \textbf{Tiffany M. Kollah, BSPH}} \\
+    \href{mailto:tkollah@neurology.unc.edu}{tkollah@neurology.unc.edu} \quad | \quad +1 (919) 445-6139 \\
+    300 Meadowmont Village Circle, Chapel Hill, NC, 27517 \quad | \quad \href{https://www.linkedin.com/in/tiffany-kollah}{linkedin.com/in/tiffany-kollah}
+\end{center}
+
+%==================
+% Education
+%==================
+\section*{I. Education}
+\begin{itemize}
+    \item \textbf{NC State University – Graduate School of Statistics}, Raleigh, NC \\
+    Graduate Student (Transfer), Applied Statistics (Public Health) \hfill \textit{Aug 2025 – Present}
+
+    \item \textbf{LSU Health Sciences Center – School of Public Health}, New Orleans, LA \\
+    Master of Science (M.S.) in Biostatistics (Public Health) \hfill \textit{Aug 2021 – Sep 2022}
+
+    \item \textbf{Slippery Rock University of Pennsylvania}, Slippery Rock, PA \\
+    Bachelor of Science (B.S.) in Public Health \hfill \textit{Aug 2014 – May 2017}
+\end{itemize}
+
+%==================
+% Technical Skills
+%==================
+\section*{II. Technical Skills}
+\begin{itemize}
+    \item \textbf{Languages:} SPSS, SAS, R/RStudio, SQL, Stata
+    \item \textbf{Tools:} MATLAB, Git, XCode
+\end{itemize}
+
+%==================
+% Work Experience
+%==================
+\section*{III. Work Experience}
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{CoachR}, Remote \\
+    \textit{Part-Time Public Health Consultant} \hfill \textit{May 2025–Present}
+    
+    \begin{itemize}
+        \item Provide subject-matter expertise in public health and biostatistics to support health-related projects.
+        \item Conduct data analysis and develop evidence-based recommendations for client programs.
+        \item Assist in designing and evaluating public health interventions and strategies.
+    \end{itemize}
+    \item \textbf{University of North Carolina at Chapel Hill – Department of Neurology}, Chapel Hill, NC \\
+    \textit{Clinical Trial Coordinator (Research)} \hfill \textit{Jan 2023 – Present}
+    \begin{itemize}
+        \item Manage, conduct, and evaluate clinical research for ADRC and NCTU.
+        \item Coordinate brain MRI and amyloid PET scan visits.
+        \item Validate data collection and ensure GCP compliance.
+        \item Lead project design, data analysis, and administration.
+        \item Recruit and retain clinical trial participants, including registry management.
+    \end{itemize}
+
+    \item \textbf{University of Pittsburgh – Renal-Electrolyte Division}, Pittsburgh, PA \\
+    \textit{Research Specialist III} \hfill \textit{Jun 2020 – Jun 2021}
+    \begin{itemize}
+        \item Recruited participants from kidney clinics across Pittsburgh.
+        \item Managed data using RedCap, Access, and UCSUR Dashboard.
+        \item Conducted participant interviews, medical chart abstraction, and specimen collection.
+        \item Designed a Kidney Disease Education Pamphlet.
+    \end{itemize}
+
+    \item \textbf{Western Psychiatric Institute and Clinic (WPIC)}, Pittsburgh, PA \\
+    \textit{Research Associate} \hfill \textit{Sep 2017 – Apr 2020}
+    \begin{itemize}
+        \item Supported Alzheimer’s research using neuroimaging under Drs. Cohen and Snitz.
+        \item Coordinated MRI/PET scanning visits and participant retention.
+        \item Managed and analyzed data in SPSS, Excel, and Access to detect trends.
+    \end{itemize}
+\end{enumerate}
+
+%==================
+% Projects
+%==================
+\section*{IV. Projects}
+\begin{itemize}
+    \item \textbf{Kidney Disease Education Pamphlet} – Designed an informative, patient-friendly pamphlet to improve awareness and understanding of chronic kidney disease for study participants.
+    \item \textbf{Neuroimaging Workflow Optimization} – Improved subject tracking, scan scheduling efficiency, and data handling in Alzheimer’s imaging research at WPIC.
+    \item \textbf{Healthcare Data SQL Practice} – Completed SQL projects using healthcare datasets via Udemy, including filtering, joins, and query optimization.
+    \item \textbf{ST 513 Mini Project 2} – Analyzed g filtering, joins, and query optimization.
+
+\end{itemize}
+%==================
+% Certifications
+%==================
+\section*{V. Certificates and Certifications}
+\begin{itemize}
+    \item \textbf{Udemy}: Data Analytics : Intro to SQL Using Healthcare Data
+    \item \textbf{LinkedIn Learning}: SPSS Essential Training, R Programming
+    \item \textbf{Coursera}: Data Science Specialization Certificate
+    \item \textbf{CITI Program}: Biomedical Research – Basic/Refresher
+    \item \textbf{CITI Program}: Social and Behavioral Research – Basic/Refresher
+    \item \textbf{CITI Program}: GCP – Social and Behavioral Research Best Practices
+\end{itemize}
+
+\end{document}
