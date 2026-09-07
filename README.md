@@ -9,30 +9,39 @@ I am a research professional dedicated to advancing evidence-based healthcare th
 ## Areas of Expertise
 
 - Clinical Research Coordination
-- Social and Behavioral Research
+- Social & Behavioral Research
 - Participant Recruitment & Retention
-- Data Collection & Management
-- Regulatory Compliance
+- Data Collection, Cleaning, Management & Analysis
+- Regulatory Compliance (e.g. GCP, HIPPA etc.)
 - Research Administration
-- Project Coordination
+- Project Coordination & Management 
 - Stakeholder Communication
+- Lab Specimen Coordination & Management 
+- SAS Programming 
+- R/R Studio Programming 
+- Biostatistics & Public Health Expertise 
+
 
 ## Repository Contents
 
 - Professional Curriculum Vitae (CV)
 - LaTeX Source Files
 - PDF Version of CV
-- Supporting Professional Documents
+- Supporting Professional Documents (e.g. Professional Reference Lists, Projects)
 
 ## Education & Professional Development
 
 Please refer to the CV for a complete overview of educational background, certifications, professional experience, and accomplishments.
+## Featured Recognition
+
+🏆 Featured by the American Statistical Association (ASA) in the *Celebrating Black History Month 2025* series. 【1-098246】
+
+📖 **Read the feature:**  
+[Tiffany M. Kollah - Amstat News](https://magazine.amstat.org/blog/2025/02/04/tiffany-m-kollah/)
 
 ## Contact
 
 GitHub: @tkollah44
-LinkedIn: (Add your LinkedIn URL here)
-
+LinkedIn: https://www.linkedin.com/in/tiffany-kollah
 ---
 *Maintained as a professional portfolio and CV repository.*
-g
